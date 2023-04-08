@@ -21,7 +21,7 @@ body{
 }
 
 .hero{
-    height: 100vh;
+    height: 120vh;
     width: 100%;
     background-image: url('../images/cony-topaz.png');
     background-repeat: no-repeat;
@@ -106,7 +106,7 @@ nav{
 
 }
 .about-me{
-    width: 350px;
+    width: 380px;
     display: flex;
     padding: 3px;
     font-size: 40px;
